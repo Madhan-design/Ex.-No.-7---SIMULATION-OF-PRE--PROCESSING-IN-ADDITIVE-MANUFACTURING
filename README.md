@@ -39,19 +39,21 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![Screenshot 2023-12-11 104129 - Copy](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/e8a9540b-1b7e-4c23-b116-e7eedb2ab5d3)
-![Screenshot 2023-12-11 104157 - Copy](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/9a7c8c3a-c6a6-441d-8a5f-9946ce9c8ee9)
-![Screenshot 2023-12-11 104209](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/371f84b3-ecdd-42ec-8bae-28d948cf9ea2)
-![Screenshot 2023-12-11 104237](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/9d5cdc45-a408-4c11-9ae5-22ad5174168a)
-![Screenshot 2023-12-11 104317](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/aea5d4a6-63c0-48c6-8805-0e879a1c4f2b)
-![Screenshot 2023-12-11 104328](https://github.com/RAGULRAAJAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/221e6f9e-8d36-41c2-8bcd-b2ee791bf763)
 
+![6 1 1](https://github.com/user-attachments/assets/9d56bdc3-7e36-469d-b330-3bcc52369933)
+![6 1 2](https://github.com/user-attachments/assets/a6eabda1-a09f-437e-a5db-a6a7146b9e57)
+![6 1 3](https://github.com/user-attachments/assets/ab6b4f5f-1a93-47e4-b696-60477e650595)
+![6 1 4](https://github.com/user-attachments/assets/eed7fb58-8f7a-45e9-a116-278c2a5f627f)
+![6 1 5](https://github.com/user-attachments/assets/967cff44-ea81-405c-b263-68ea79dcc543)
+![6 1 6](https://github.com/user-attachments/assets/555ba45f-7bb6-41f3-9d28-44b1dfe83c5b)
 
 
 ## Output:
 
-### Name: RAGUL RAAJAN T
-### Register Number: 23007752
+### Name: Madhan S
+### Register Number: 24005435
+
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
